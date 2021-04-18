@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.exe.config
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.exe
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\HardwareInfo.pdb
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csprojAssemblyReference.cache
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.Form1.resources
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.Properties.Resources.resources
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.csproj.CopyComplete
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.exe
+C:\Users\DELL\Documents\LapTrinhAPI\HardwareInfo\HardwareInfo\obj\Debug\HardwareInfo.pdb
